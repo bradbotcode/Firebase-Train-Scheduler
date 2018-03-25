@@ -1,2 +1,2 @@
 # Firebase-Train-Scheduler
-Homework Assignment 5 pt. 1
+Homework Assignment 6
